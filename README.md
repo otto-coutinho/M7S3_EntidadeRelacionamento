@@ -10,3 +10,7 @@
 ## Diagramas Entidade-relacionamento
 
 Os Diagramas Entidade-relacionamento podem ser encontrados no arquivo <a href="entidadeRelacionamento\entidadeRelacionamento.md">link</a>
+
+## Arquivo XML/SQL
+
+As informações sobre os arquivos XML e SQL, bem como imagens das tabelas, são encontradas no diretório <a href="tabelas">tabelas</a>.
