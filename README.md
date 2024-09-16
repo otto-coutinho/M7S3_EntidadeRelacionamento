@@ -9,4 +9,4 @@
 
 ## Diagramas Entidade-relacionamento
 
-Os Diagramas Entidade-relacionamento podem ser encontrados no arquivo <a link="entidadeRelacionamento\entidadeRelacionamento.md">link</a>
+Os Diagramas Entidade-relacionamento podem ser encontrados no arquivo <a href="entidadeRelacionamento\entidadeRelacionamento.md">link</a>
